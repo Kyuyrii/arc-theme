@@ -23,7 +23,8 @@ common_dirs = {
   'metacity' : 'metacity-1',
   'plank' : 'plank',
   'unity' : 'unity',
-  'xfwm' : 'xfwm4'
+  'xfwm' : 'xfwm4',
+  'labwc' : 'labwc'
 }
 
 foreach theme : get_option('themes')
